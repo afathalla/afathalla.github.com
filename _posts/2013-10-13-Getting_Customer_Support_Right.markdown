@@ -27,5 +27,5 @@ What else do you think can be done to make customer support less painful? Join t
 
 [cib]: http://www.cibeg.com/
 [dhh_blog]: http://37signals.com/svn/posts/3513-when-empathy-becomes-insulting
-[hn_link]: http://news.ycombinator.org
+[hn_link]: https://news.ycombinator.com/item?id=6542880
 [twitter]: https://twitter.com/afathalla
