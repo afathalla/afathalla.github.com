@@ -20,4 +20,4 @@ Do you agree? Join the discussion on [Hacker News][hn_link].
 [desk_com_link]: http://www.desk.com/
 [zendesk_link]: http://www.zendesk.com/
 [freshdesk_link]: http://www.freshdesk.com/
-[hn_link]: https://news.ycombinator.com/item?id=6542880
+[hn_link]: https://news.ycombinator.com/item?id=6579221
