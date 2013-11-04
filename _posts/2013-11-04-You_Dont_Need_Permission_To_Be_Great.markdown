@@ -15,5 +15,5 @@ Having some experience with my own [business][usertalk], I can say that both the
 Do you agree? Join the discussion on [Hacker News][hn_link].
 
 [usertalk]: http://www.getusertalk.com/
-[hn_link]: https://news.ycombinator.com/item?id=6542880
+[hn_link]: https://news.ycombinator.com/item?id=6668699
 
